@@ -1,0 +1,16 @@
+{
+  "name": "test-thrift",
+  "description": "",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "thrift": "^0.12.0"
+  }
+}

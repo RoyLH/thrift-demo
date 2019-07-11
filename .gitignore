@@ -1,0 +1,6 @@
+client_lib
+node_modules
+.vscode
+.history
+gen*
+package-lock.json
